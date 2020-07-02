@@ -13,4 +13,4 @@ voila-vuetify
 nbconvert
 rise
 jupyter-docx-bundler
-csv
+
